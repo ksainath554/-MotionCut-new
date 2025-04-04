@@ -20,5 +20,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base:"/bluestock-ipo",
+  base:"/MotionCut-new",
 }));
